@@ -6,7 +6,7 @@ print(""'+'"")-> treats entirety as a text including the +
 
 python cares about indentation, so always start your line without any gap
 
-print("A"\n"B")-> pints A and B in successive lines
+print("A"\n"B")-> prints A and B in successive lines
 
 
 input("")->asks the question to user based on text inside quotes and waits for a input
